@@ -75,7 +75,7 @@ def main():
     print(user1.profile())
     print(user2.profile())
     #print(adduser().profile())
-    #print(adduser()._credit())'''
+    print(adduser()._credit())'''
    
 
 if __name__ == "__main__":
